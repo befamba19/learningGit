@@ -1,3 +1,3 @@
 # learningGit
 
-This Repo was used to learn Git fro Amigoscode
+This Repo was used to learn Git from Amigoscode
